@@ -2,7 +2,7 @@
 
 
 **Team Members:** Isma, Syahir, and Hazeeq
-![Project Photo](Pictures/3423.jpg)
+![Project Photo](Pictures/32423.jpg)
 
 This repository contains documents, project materials, and results from our participation in the **Roboter Design Challenge 2025**.
 Dieses Repository enthält Unterlagen, Dokumentationen und Projektergebnisse unserer Teilnahme an der **Roboter Design Challenge 2025**.
