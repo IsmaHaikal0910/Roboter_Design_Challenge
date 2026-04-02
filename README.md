@@ -6,6 +6,7 @@
 <img src="Pictures/32423.jpeg" alt="Project Picture" width="400">
 
 This repository contains documents, project materials, and results from our participation in the **Roboter Design Challenge 2025**.
+
 Dieses Repository enthält Unterlagen, Dokumentationen und Projektergebnisse unserer Teilnahme an der **Roboter Design Challenge 2025**.
 
 ---
