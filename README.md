@@ -4,9 +4,8 @@ https://www.jade-hs.de/unsere-hochschule/fachbereiche/ingenieurwissenschaften/ve
 **Team Members:** Isma, Syahir, and Hazeeq
 
 <img src="Pictures/32423.jpeg" alt="Project Picture" width="400">
----
+
 https://www.nwzonline.de/wilhelmshaven/karrieretag-in-wilhelmshaven-jade-hochschule-begeistert-800-besucher-mit-einblicken-in-studium-und-beruf_a_4,2,2852570350.html#
----
 
 This repository contains documents, project materials, and results from our participation in the **Roboter Design Challenge 2025**.
 
